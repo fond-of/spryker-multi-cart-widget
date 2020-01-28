@@ -21,9 +21,9 @@
     }
   ],
   "require": {
-    "php": ">=7.1",
-    "spryker/cart": "^7.2.0",
-    "spryker-shop/multi-cart-widget": "^1.1.0"
+    "php": ">=7.2",
+    "spryker/cart": "^7.6.0",
+    "spryker-shop/multi-cart-widget": "^1.4.3"
   },
   "require-dev": {
     "spryker/code-sniffer": "^0.14.7",
