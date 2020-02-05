@@ -28,7 +28,7 @@ class CheckoutCartWidgetPlugin extends AbstractWidgetPlugin implements CheckoutC
     }
 
     /**
-     * {@inheritdoc}
+     * {@inheritDoc}
      *
      * @api
      *
@@ -40,7 +40,7 @@ class CheckoutCartWidgetPlugin extends AbstractWidgetPlugin implements CheckoutC
     }
 
     /**
-     * {@inheritdoc}
+     * {@inheritDoc}
      *
      * @api
      *

@@ -6,7 +6,7 @@ use Spryker\Yves\Kernel\Dependency\Plugin\WidgetPluginInterface;
 
 interface CheckoutCartWidgetPluginInterface extends WidgetPluginInterface
 {
-    const NAME = 'CheckoutCartWidgetPlugin';
+    public const NAME = 'CheckoutCartWidgetPlugin';
 
     /**
      * @param int $cartQuantity
